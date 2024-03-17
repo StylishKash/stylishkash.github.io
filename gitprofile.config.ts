@@ -110,9 +110,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: '',
-      body: '',
-      year: '',
+      name: 'Dean List',
+      body: 'Recognized for outstanding academic achievement by consistently maintaining a high GPA and demonstrating exceptional performance in coursework.',
+      year: '2023',
       link: '',
     },
   ],
